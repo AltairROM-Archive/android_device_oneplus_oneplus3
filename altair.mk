@@ -27,7 +27,7 @@ $(call inherit-product, vendor/altair/config/common_full_phone.mk)
 PRODUCT_PROPERTY_OVERRIDES += \
     ro.lineage.build.vendor_security_patch=2018-05-01
 
-PRODUCT_NAME := lineage_oneplus3
+PRODUCT_NAME := altair_oneplus3
 PRODUCT_DEVICE := oneplus3
 PRODUCT_MANUFACTURER := OnePlus
 PRODUCT_BRAND := OnePlus
