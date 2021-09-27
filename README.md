@@ -26,7 +26,7 @@ Unified device configuration for OnePlus 3/3T
 
 ## Picture
 
-![OnePlus 3](https://i.imgur.com/1i1VbQH.jpg "OnePlus 3")
+![OnePlus 3](https://raw.githubusercontent.com/AltairROM-Devices/devices/master/images/oneplus3.jpg "OnePlus 3")
 
 ## Copyrights
 
