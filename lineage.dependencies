@@ -1,9 +1,9 @@
 [
   {
-    "remote": "lineage",
-    "repository": "android_device_oppo_common",
+    "remote": "altair",
+    "repository": "AltairROM-Devices/android_device_oppo_common",
     "target_path": "device/oppo/common",
-    "revision": "lineage-18.1"
+    "revision": "11"
   },
   {
     "remote": "lineage",
